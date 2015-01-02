@@ -1,0 +1,50 @@
+Accepted conn from: ('160.39.31.45', 53053)
+Time to receive: 3.35545110703
+Total time: 3.35702896118
+Total data received: 262144 KB. 
+Throughput: 78088.1024607 KB/s
+Accepted conn from: ('160.39.31.45', 53057)
+Time to receive: 6.99878501892
+Total time: 6.99664092064
+Total data received: 262144 KB. 
+Throughput: 37467.1252188 KB/s
+Accepted conn from: ('160.39.31.45', 53058)
+Time to receive: 3.62767696381
+Total time: 3.62738490105
+Total data received: 262144 KB. 
+Throughput: 72268.0467156 KB/s
+Accepted conn from: ('160.39.31.45', 53059)
+Time to receive: 3.7470870018
+Total time: 3.74864792824
+Total data received: 262144 KB. 
+Throughput: 69930.2859331 KB/s
+Accepted conn from: ('160.39.31.45', 53060)
+Time to receive: 6.49228405952
+Total time: 6.4897339344
+Total data received: 262144 KB. 
+Throughput: 40393.6469714 KB/s
+Accepted conn from: ('160.39.31.45', 53061)
+Time to receive: 4.33352994919
+Total time: 4.32792305946
+Total data received: 262144 KB. 
+Throughput: 60570.3978289 KB/s
+Accepted conn from: ('160.39.31.45', 53062)
+Time to receive: 3.61366081238
+Total time: 3.61552906036
+Total data received: 262144 KB. 
+Throughput: 72505.0240526 KB/s
+Accepted conn from: ('160.39.31.45', 53063)
+Time to receive: 3.55010914803
+Total time: 3.55289292336
+Total data received: 262144 KB. 
+Throughput: 73783.2597659 KB/s
+Accepted conn from: ('160.39.31.45', 53064)
+Time to receive: 3.55155682564
+Total time: 3.55331206322
+Total data received: 262144 KB. 
+Throughput: 73774.5564759 KB/s
+Accepted conn from: ('160.39.31.45', 53065)
+Time to receive: 5.58861589432
+Total time: 5.5908510685
+Total data received: 262144 KB. 
+Throughput: 46888.0351619 KB/s
